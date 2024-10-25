@@ -41,7 +41,7 @@ Step 2: Configure Hardhat for Chainbase Testnet
       }
     };
 
-Step 3: Write Your Smart Contract
+Step 3: Write Your Smart Contract:
 
     Create a New Contract: In the contracts directory, create a new file named MyContract.sol.
 
