@@ -97,7 +97,7 @@ Step 7: Interact with Your Smart Contract
 You can interact with your deployed contract using Hardhat's console or by writing additional scripts to call the contract's functions.
 Additional Notes
 
-    Funding Your Wallet: Make sure your wallet has enough test ETH. You can get Sepolia Testnet ETH from sepoliafaucet.com or sepoliafaucet.io, and then bridge it to the Chainbase testnet using the Chainbase Bridge.
+    Funding Your Wallet: Make sure your wallet has enough test ETH. You can get Sepolia Testnet ETH from sepoliafaucet.com or sepoliafaucet.io, and then bridge it to the Chainbase testnet using the Chainbase Bridge...
 
     Join the Community: Engage with other developers on the Chainbase Discord for support and collaboration.
 
